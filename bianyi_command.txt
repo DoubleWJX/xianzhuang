@@ -1,0 +1,1 @@
+g++ sub_sample.cpp `pkg-config --cflags --libs opencv`
